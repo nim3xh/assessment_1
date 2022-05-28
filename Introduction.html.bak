@@ -1,0 +1,97 @@
+<html>
+	<head>
+		<title>Introduction-Kandy</title>
+	<style>
+		body{
+				background-image:url("index-background.png");
+				background-size:cover;
+				background-repeat:no-repeat;
+				color:white;
+				background-attachment:fixed;
+				}
+		p	
+					{
+					background-color: rgb(0, 0, 0, 0.5);
+					}
+				a:link 
+					{
+					color: green;
+					background-color: transparent;
+					text-decoration: none;
+					}
+
+			a:visited 
+					{
+					color: pink;
+					background-color: transparent;
+					text-decoration: none;
+					}
+
+			a:hover 
+					{
+					color: red;
+					background-color: transparent;
+					text-decoration: none;
+					}
+
+			a:active 
+					{
+					color: yellow;
+					background-color: transparent;
+					text-decoration: none;
+					}
+				img
+					{
+					border-radius: 25px;
+					border: 2px solid #ffffff;
+					padding: 20px;
+					width: 400px;
+					height:225px;
+					}
+				#table
+					{
+					
+					color:black;
+					margin-left:155px;
+					}
+				#no
+					{
+					margin-top:50px;
+					}
+		</style>	
+	</head>
+	<body>
+		<div id="table">
+		<table style="background-color: rgba(0, 0, 0,0.5);" id="table">
+			<tr>
+						<td><a href="Index.html">|Home|</a></td>
+						<td><a href="Introduction.html" target="_blank">|Introduction|</a></td>
+						<td><a href="Religious places.html" target="_blank">|Religious places|</a></td>
+						<td><a href="Schools.html" target="_blank">|Schools|</a></td>
+						<td><a href="Beautiful places.html" target="_blank">|Beautiful places|</a></td>
+						<td><a href="Special Places.html" target="_blank">|Special Places|</a></td>
+						<td><a href="Government Places.html" target="_blank">|Government Places|</a></td>
+						<td><a href="Important Places.html" target="_blank">|Important Places|</a></td>
+			</tr>
+		</table>
+		</div>
+		<div id="no">
+		
+		<h2>ABOUT KANDY</h2>
+		
+		<img src="intro.jpg" align="right">
+		<p>Kandy, the cultural capital of Sri Lanka, a World Heritage Site sits pretty in a valley surrounded by rings of mountains, 115km away from the seaport of Colombo. Right in the heart of the city center of Kandy is the man-made lake called Kiri Muhuda (Sinhala: the sea of milk), the one and only decorative lake in Sri Lanka. All other thousands of man-made reservoirs in Sri Lanka are developed primarily for the purposes of irrigation, and secondarily for the purposes of general use and wildlife conservation.Built in the medieval era, the lovely lake is encircled by a short white-washed parapet called Valakulu Bamma (Sinhala: Embankment of clouds) with the pedestrian pavement and motor road running next to the parapet. In the center of the lake is an Island.Southwestern corner of the lake makes way- a just a few steps - to the garden of the Temple of the Tooth. Udawattakele Bird Sanctuary with its densely wooded green hills looms over the red tile roofs and golden canopy of the Temple of the Tooth. Located within the courtyard of the Temple of Tooth are Tourist Office and Cultural Triangle Office.Kandy is home to a multitude of medieval Buddhist temples. Great Kandy Esala Perahera Pageant, the yearly grand homage-rainmaker celebration in exposition of Tooth Relic of Buddha around the city is one great methodical riot of fire, light and sounds of fire play dancers, drummer dancers, dancers, drummers, piper dancers, pipers and caparisoned elephants.Kandy is the transportation hub of the Central province; it is also the gateway to the Central Highlands of Sri Lanka. The Good Shed bus station and railway station have huddled up to each other at the southwest corner of the city center.Kandy affords ample accommodation options ranging from international standing.5 star hotels to budget guest houses in the city center, in and around Kandy and the suburbs of Kandy.</p>
+		
+		<h2>ABOUT KANDY DISTRICT</h2>
+		
+		<img src="kandydis.jpg" align="right" width="40%">
+		<p>Kandy districtis situated in the centrel province of Sri Lanka. One of the seven World Heritage Sites in Sri Lanka,Kandy was once home to the Kandyan Kings of yore in the 16th-century and a fountainhead for all the music, arts, crafts and culture in the country. About 129 km away from Colombo,Kandy is ensconced amongst a hilly terrain and all eyes are drawn to the centre of the city, where theKandy Lake forms a charming feature. Kandy retains great religious significance for SriLanka, because it is in this charming city that the Dalada Maligawa or "Temple of the Tooth"is located, within which the sacred tooth relic of Lord Buddha lies well guarded.The Royal Botanical Garden ,Peradeniyais situated about 5 km to the west of the city centre at Peradeniya and is visited by 1.2 million people per year. It is the largest botanical garden on the island. The Udawatta Kele (Udawatta Forest) is a protected sanctuary situated in the heart of the city, just north of Temple of the Tooth .Kandy is a Sinhala majority city; there are sizeable communities belonging to other ethnic groups, such as Moors and Tamils. Kandy is second only to Colombo the center of the Sri Lankan Economy. Many major co operations have large branch officers in Kandy and many industries include textiles, furniture, Information Technology and jewellery are found here. Many agriculture research centers are located in the city.and a fountainhead for all the music, arts, craftsand culture in the country. About 129 km away from Colombo ,Kandy is ensconced amongst a hilly terrain and all eyes are drawn to the centre of the city, where the Kandy Lake forms a charming feature.Kandy retains great religious significance for SriLanka , because it is in this charming city that the Dalada Maligawa or Temple of the Toothis located, within which the sacred tooth relic of Lord Buddha lies well guarded.</p>
+		
+		<h2>ETYMOLOGY</h2>
+		
+		<img src="ETYMOLOGY.jpg" align="right" width="40%">
+		<p>The city and the region have been known by many different names and versions of those names. Some scholars suggest that the original name of Kandy was Katubulu Nuwara located near the present Watapuluwa. However, the more popular historical name is Senkadagala or Senkadagalapura, officially Senkadagala Siriwardhana Maha Nuwara (meaning 'great city of Senkadagala of growing resplendence'), generally shortened to 'Maha Nuwara'. According to folklore, this name originated from one of the several possible sources. One being the city was named after a brahmin with the name Senkanda who lived in a cave nearby, and another being a queen of Vikramabahu III was named Senkanda, and after a coloured stone named Senkadagala. The Kingdom of Kandy has also been known by various names. The English name Kandy, which originated during the colonial era, is derived from an anglicised version of the Sinhala Kanda Uda Rata (meaning the land on the mountain) or Kanda Uda Pas Rata (the five counties/countries on the mountain). The Portuguese shortened this to "Candea", using the name for both the kingdom and its capital. In Sinhala, Kandy is called Maha nuwara, meaning "Great City" or "The Capital", although this is most often shortened to Nuwara</p>
+		<p><a href="Index.html"><<<b>home</b></a></p>
+		</div>
+	</body>
+</html>

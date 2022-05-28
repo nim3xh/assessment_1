@@ -1,0 +1,146 @@
+<html>
+	<head>
+		<title>Religious places-Kandy</title>
+		<style>
+		body{
+				background-image:url("index-background.png");
+				background-size:cover;
+				background-repeat:no-repeat;
+				color:white;
+				background-attachment:fixed;
+				}
+		p	
+				{
+				background-color: rgb(0, 0, 0, 0.5);
+				}
+		h1
+			{
+			text-align:center;
+			}
+			a:link 
+					{
+					color: green;
+					background-color: transparent;
+					text-decoration: none;
+					}
+
+			a:visited 
+					{
+					color: pink;
+					background-color: transparent;
+					text-decoration: none;
+					}
+
+			a:hover 
+					{
+					color: red;
+					background-color: transparent;
+					text-decoration: none;
+					}
+
+			a:active 
+					{
+					color: yellow;
+					background-color: transparent;
+					text-decoration: none;
+					}
+				img
+					{
+					border-radius: 25px;
+					border: 2px solid #ffffff;
+					padding: 20px;
+					width: 400px;
+					height:225px;
+					}
+				#table
+					{
+					
+					color:black;
+					margin-left:155px;
+					}
+				#no
+					{
+					margin-top:25px;
+					}
+		</style>
+	</head>
+	<body>
+		<div id="table">
+		<table style="background-color: rgba(0, 0, 0,0.5);" id="table">
+			<tr>
+						<td><a href="Index.html">|Home|</a></td>
+						<td><a href="Introduction.html" target="_blank">|Introduction|</a></td>
+						<td><a href="Religious places.html" target="_blank">|Religious places|</a></td>
+						<td><a href="Schools.html" target="_blank">|Schools|</a></td>
+						<td><a href="Beautiful places.html" target="_blank">|Beautiful places|</a></td>
+						<td><a href="Special Places.html" target="_blank">|Special Places|</a></td>
+						<td><a href="Government Places.html" target="_blank">|Government Places|</a></td>
+						<td><a href="Important Places.html" target="_blank">|Important Places|</a></td>
+			</tr>
+		</table>
+		</div>
+		
+		<br>
+		
+		<div id="no">
+		
+		<h1>Religious Sites in Kandy</h1>
+		
+		<h3>Temple Of The Sacred Tooth Relic</h3>
+		
+		<img src="TEMPLE OF THE SACRED TOOTH RELIC.png" align="left" width="17%" height="28%" alt="Temple Of The Sacred Tooth Relic">
+		<p><font size="4.5px">Sri Dalada Maligawa (Sinhala: ශ්‍රී දළදා මාළිගාව) or The Temple of the Sacred Tooth Relic is a Buddhist temple in the city of Kandy, Sri Lanka. It is located in the royal palace complex which houses the Relic of the tooth of Buddha. Since ancient times, the relic has played an important role in local politics because it is believed that whoever holds the relic holds the governance of the country. Kandy was the last capital of the Sinhalese kings and is a UNESCO world heritage site partly due to the temple. The temple which houses the Sacred Tooth Relic of the Buddha is one of the holiest shrines in the entire Buddhist world.</font></p><br><br><br><br><br><br><br><br>
+		<hr>
+		
+		<h3 align="right">Temple Of The Gadaladenia</h3>
+		
+		<img src="Gadaladeniya-Temple-Sri-Lanka.jpg" align="right" width="17%" height="28%" alt="Temple Of The Gadaladenia">
+		<p><font size="4.5px">A 14th century ancient Buddhist temple with Sinhalese and Hindu unique architectural mix. Once abandoned, the temple is locate 12 km away from city centre on top of a rock with lush green view of paddy fields and villages. The place is basically for historians who love explore different cultures. Area is renowned for brass work.</font></p>
+		<br><br><br><br><br><br><br><br><br><br><br>
+		<hr>
+		<h3>Natha Devale</h3>
+		
+		<img src=" NATHA DEVALE.jpg" align="left" width="17%" height="28%" alt="NATHA DEVALE">
+		<p><font size="4.5px">The Nàtha Devàla is located on the terrace, in front of the Royal Palace complex in Kandy. It is said to have been in existence even before the Tooth Relic was brought to Kandy. The oldest extant structure in Kandy, it is said to have been built by King Vikramabahu III in the 14th century.</font></p><br><br><br><br><br><br><br><br><br><br><br>
+		<hr>
+		<h3 align="right">Embekka Devalaya</h3>
+		
+		<img src=" Embekke_Devalaya_Wooden_Carvings.jpg" align="right" width="17%" height="28%" alt="Embekka Devalaya">
+		<p><font size="4.5px">The Nàtha Devàla is located on the terrace, in front of the Royal Palace complex in Kandy. It is said to have been in existence even before the Tooth Relic was brought to Kandy. The oldest extant structure in Kandy, it is said to have been built by King Vikramabahu III in the 14th century.</font></p><br><br><br><br><br><br><br><br><br><br><br>
+		<hr>
+		<h3>Lord Kataragama Temple Kandy</h3>
+		
+		<img src="Lord Kataragama temple.jpg" align="left" width="17%" height="28%" alt="Lord Kataragama Temple Kandy">
+		<p><font size="4.5px">I is a very beautiful ancient temple. It is small but peaceful. We had a guided tour of the history of the temple and it was interesting.. One of the must visit places when in Kandy. The entrance is small and one could miss it..</font></p><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		<hr>
+		<h3 align="right"> Asgiriya Maha Viharaya</h3>
+		
+		<img src="ASGIRIYA MAHA VIHARAYA.jfif" align="right" width="17%" height="28%" alt="Asgiriya Maha Viharaya">
+		<p><font size="4.5px">The Nàtha Devàla is located on the terrace, in front of the Royal Palace complex in Kandy. It is said to have been in existence even before the Tooth Relic was brought to Kandy. The oldest extant structure in Kandy, it is said to have been built by King Vikramabahu III in the 14th century.</font></p><br><br><br><br><br><br><br><br><br><br><br>
+		<hr>
+		<h3>Pothgul Viharaya</h3>
+		
+		<img src="POTHGUL VIHARAYA.webp" align="left" width="17%" height="28%" alt="Pothgul Viharaya">
+		<p><font size="4.5px">Just behind the temple of tooth. Nice buddhist temple in a small hill. You can see the surrounding of kandy. Little stupa is there. Edge of the temple you can see the cemetery of english peoples.The Kandy branch of the buddhist tv channel also located inside this temple. Big load buddha's stratue also can see.	</font></p><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		<hr>
+		<h3 align="right">Pillaiyar Kovil</h3>
+		
+		<img src="Pillaiyar Kovil.jpg" align="right" width="17%" height="28%" alt="Asgiriya Maha Viharaya">
+		<p><font size="4.5px">This holy place was founded during the early times of British rule when the Bogambara Lake extended as far as the present spot marking the lake road as its boundary. The devotees had commenced building a shrine for Ganesh after finding a statue of the god in well there. According to tradition, the final day Perahara of the four Devales in Kandy starts from Pulleyar Kovil after the water-cutting ceremony.</font></p><br><br><br><br><br><br><br><br><br><br><br>
+		<hr>
+		
+		<h3 align="left">St. Paul's Church</h3>
+		
+		<img src="St.Paul's.jpg" align="left" width="17%" height="28%" alt="Asgiriya Maha Viharaya">
+		<p><font size="4.5px">St. Paul's Church (Sinhala: ශාන්ත පාවුළු දේවස්ථානය) is an Anglican church in the historical district of Kandy, Sri Lanka on sacred grounds west of the Temple of the Tooth.</font></p><br><br><br><br><br><br><br><br><br><br><br><br>
+		<hr>
+		<br>
+		<h3 align="left">Meera Makam Mosque, Kandy</h3>
+		<img src="Pillaiyar Kovil.jpg" align="right" width="17%" height="28%" alt="Asgiriya Maha Viharaya">
+		<p><font size="4.5px">This holy place was founded during the early times of British rule when the Bogambara Lake extended as far as the present spot marking the lake road as its boundary. The devotees had commenced building a shrine for Ganesh after finding a statue of the god in well there. According to tradition, the final day Perahara of the four Devales in Kandy starts from Pulleyar Kovil after the water-cutting ceremony.</font></p><br><br><br><br><br><br><br><br><br><br>
+		<hr>
+		<p><a href="Index.html"><<<b>home</b></a></p>
+		<hr>
+		</div>
+	</body>
+</html>

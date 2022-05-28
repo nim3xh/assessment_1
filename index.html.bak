@@ -1,0 +1,110 @@
+<html>
+	<head>
+		<title>Kandy</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<style>
+			body{
+				background-image:url("\images\index-background.png");
+				background-size:cover;
+				background-repeat:no-repeat;
+				background-attachment:fixed;
+				color:white;
+				
+				
+				}
+			td {padding:14px;font-size:20px;}
+			a:link 
+					{
+					color: green;
+					background-color: transparent;
+					text-decoration: none;
+					}
+
+			a:visited 
+					{
+					color: pink;
+					background-color: transparent;
+					text-decoration: none;
+					}
+
+			a:hover 
+					{
+					color: red;
+					background-color: transparent;
+					text-decoration: none;
+					}
+
+			a:active 
+					{
+					color: yellow;
+					background-color: transparent;
+					text-decoration: none;
+					}
+			p	
+					{
+					background-color: rgb(0, 0, 0, 0.5);
+					}
+		</style>	
+	</head>
+	<body>
+		<center>
+			<table style="background-color: rgba(0, 0, 0, 0.5);">
+				<tr>
+					<th colspan="7">
+						<h1>Kandy මහනුවර கண்டி</h1>
+					</th>
+				</tr>
+				<tr>
+				<tr>
+					<td><a href="Introduction.html" target="_blank">|Introduction|</a></td>
+					<td><a href="Religious places.html" target="_blank">|Religious places|</a></td>
+					<td><a href="Schools.html" target="_blank">|Schools|</a></td>
+					<td><a href="Beautiful places.html" target="_blank">|Beautiful places|</a></td>
+					<td><a href="Special Places.html" target="_blank">|Special Places|</a></td>
+					<td><a href="Government Places.html" target="_blank">|Government Places|</a></td>
+					<td><a href="Important Places.html" target="_blank">|Important Places|</a></td>
+				</tr>
+			</table>
+			
+		</center>
+		<br><br>
+			<table>
+				<tr>
+				<td> </td>
+				<th width="37%">
+					<table style="background-color: rgba(0, 0, 0, 0.5);" width="75%" height="75%">
+						<tr>
+							<td>Population (2011):</td>
+							<td>125,400</td>
+						</tr>
+						<tr>
+							<td>Density:</td>
+							<td>4,591/km<sup>2</sup></td>
+						</tr>
+						<tr>
+							<td>Elevation:</td>
+							<td>500 m (1,600 ft</td>
+						</tr>
+						<tr>
+							<td>Demonym(s):</td>
+							<td>Kandyan</td>
+						</tr>
+						<tr>
+							<td>Time zone:</td>
+							<td>UTC+05:30 (Sri Lanka Time)</td>
+						</tr>
+						<tr>
+							<td>Postal code:</td>
+							<td>20000</td>
+						</tr>
+						<tr>
+							<td>Area code:</td>
+							<td>081</td>
+						</tr>
+					</table>
+				</th>
+				<td><p>Kandy is a large city in central Sri Lanka. It's set on a plateau surrounded by mountains, which are home to tea plantations and biodiverse rainforest. The city's heart is scenic Kandy Lake (Bogambara Lake), which is popular for strolling. Kandy is famed for sacred Buddhist sites, including the Temple of the Tooth (Sri Dalada Maligawa) shrine, celebrated with the grand Esala Perahera annual procession</p></td>
+			</tr>
+		</table>
+			
+	</body>

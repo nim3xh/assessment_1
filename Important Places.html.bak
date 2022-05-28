@@ -1,0 +1,133 @@
+<html>
+	<head>
+		<title>Important Places-kandy</title>
+		<style>
+		body{
+				background-image:url("index-background.png");
+				background-size:cover;
+				background-repeat:no-repeat;
+				background-attachment:fixed;
+				color:white;
+				}
+				a:link 
+					{
+					color: green;
+					background-color: transparent;
+					text-decoration: none;
+					}
+
+			a:visited 
+					{
+					color: pink;
+					background-color: transparent;
+					text-decoration: none;
+					}
+
+			a:hover 
+					{
+					color: red;
+					background-color: transparent;
+					text-decoration: none;
+					}
+
+			a:active 
+					{
+					color: yellow;
+					background-color: transparent;
+					text-decoration: none;
+					}
+				img
+					{
+					border-radius: 25px;
+					border: 2px solid #ffffff;
+					padding: 20px;
+					width: 400px;
+					height:225px;
+					}
+				#table
+					{
+					
+					color:black;
+					margin-left:155px;
+					}
+				#no
+					{
+					margin-top:10px;
+					}
+		</style>
+	</head>
+	<body>
+		<div id="table">
+		<table style="background-color: rgba(0, 0, 0,0.5);" id="table">
+			<tr>
+						<td><a href="Index.html">|Home|</a></td>
+						<td><a href="Introduction.html" target="_blank">|Introduction|</a></td>
+						<td><a href="Religious places.html" target="_blank">|Religious places|</a></td>
+						<td><a href="Schools.html" target="_blank">|Schools|</a></td>
+						<td><a href="Beautiful places.html" target="_blank">|Beautiful places|</a></td>
+						<td><a href="Special Places.html" target="_blank">|Special Places|</a></td>
+						<td><a href="Government Places.html" target="_blank">|Government Places|</a></td>
+						<td><a href="Important Places.html" target="_blank">|Important Places|</a></td>
+			</tr>
+		</table>
+		</div>
+		<div id="no">
+		<br>
+		<table>
+		<tr>
+		<td>
+		<h1>Banks in Kandy</h1>
+			<ol type="i">
+				<li>Bank Of Ceylon Kandy Branch, ලංකා බැංකුව මහනුවර ශාඛාව</li>
+				<li>Commercial Bank Kandy (City Office) Branch</li>
+				<li>People's Bank Kandy | Kandy City Center</li>
+				<li>Merchant Bank of Sri Lanka</li>
+				<li>Commercial Bank</li>
+				<li>DFCC Bank - Kandy City Centre</li>
+				<li>Cargills Bank - Kandy</li>
+				<li>State Bank of India</li>
+				<li>Sampath Bank Kcc branch</li>
+				<li>MCB Bank</li>
+				<li>Union Bank</li>
+				<li>Sanasa Development Bank</li>
+				<li>etc..</li>
+			</ol>
+		</td>
+		<td>
+			<h1>Post offices in kandy</h1>
+			<ol type="i">
+				<li>Kandy Post Office / මහනුවර තැපැල් කාර්යාලය / கண்டி தபால் அலுவலகம்.</li>
+				<li>Hill Street Post Office.</li>
+				<li>Post Office | KCC</li>
+				<li>Post Office, Kandy Branch</li>
+				<li>Central Market Post Office.</li>
+				<li>සෙන්කඩගල උප තැපැල් කාර්යාලය Senkadagala Post Office</li>
+				<li>Katukelle-Sub Post Office</li>
+				<li>Sub Post Office Kandy Hospital - 20207</li>
+				<li>Aruppola Sub Post Office</li>
+				<li>Post Office</li>
+				<li>Kandy Old Post Office Building</li>
+				<li>etc..</li>
+			</ol>
+		</td>
+		</tr>
+		<tr>
+			<td>
+			<h1>Hospitals in Kandy</h1>
+				<ol type="i">
+					<li>Hospitals in Kandy</li>
+					<li>Asiri Hospital Kandy ආසිරි රෝහල මහනුවර<li>
+					<li>Kandy Private Hospital Ltd</li>
+					<li>Lakeside Adventist Hospital</li>
+					<li>Suwasewana Hospital</li>
+					<li>Singhe Hospital Laboratory Kandy</li>
+					<li>Osro Hospitals (Pvt) Ltd</li>
+					<li>central health care</li>
+		</table>
+		</div>
+		<br>
+		<hr>
+		<p><a href="Index.html"><<<b>home</b></a></p>
+		<hr>
+	</body>
+</html>
